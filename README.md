@@ -1,2 +1,2 @@
-# Calculatrice-avec-java
-Calculatrice avec java.
+# Calculator java
+Calculator with java
