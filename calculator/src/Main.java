@@ -4,5 +4,4 @@ public class Main {
         Calcul cal = new Calcul();
 
         }
-
-    }
+}
